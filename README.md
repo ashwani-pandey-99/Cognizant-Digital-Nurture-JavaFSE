@@ -1,17 +1,25 @@
-# Cognizant-Digital-Nurture-JavaFSE
+# 🚀 Cognizant Digital Nurture - Java FSE
 
+This repository contains my weekly assignments and hands-on exercises completed during the **Cognizant Digital Nurture - Java Full Stack Engineer (Java FSE)** program.
 
+## 📚 Week 1
 
-Week 1
+* 🎯 Design Patterns & Principles
+* 📊 Data Structures & Algorithms
+* 🗄️ PL/SQL Programming
+* 🧪 Test Driven Development (TDD)
+* 📝 Logging Framework
 
-Topics Covered:
+📂 **Folder:** `Java-FSE-Assignment/Week-1`
 
-Design Patterns and Principles
-Data Structures and Algorithms
-PL/SQL Programming
-Test Driven Development (TDD)
-Logging Framework
+## 🌱 Week 2
 
-All assignments and solutions for Week 1 are available in the Java-FSE-Assignment/Week-1 folder.
+* ☕ Spring Core
+* 💉 Spring IoC & Dependency Injection
+* 🏷️ Bean Configuration (XML & Annotations)
+* ✨ Spring AOP
+* 📦 Maven
 
-Author: Ashwani Pandey
+📂 **Folder:** `Java-FSE-Assignment/Week-2`
+
+👨‍💻 **Author:** Ashwani Pandey
