@@ -1,0 +1,145 @@
+:root {
+  --ink: #1d252c;
+  --muted: #62717f;
+  --line: #d9e1e8;
+  --paper: #ffffff;
+  --mist: #f4f7f9;
+  --green: #256d53;
+  --amber: #b7791f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--ink);
+  background: var(--mist);
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0;
+}
+
+.overview-band {
+  background:
+    linear-gradient(rgba(244, 247, 249, 0.9), rgba(244, 247, 249, 0.96)),
+    url("https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=80") center/cover;
+  border-bottom: 1px solid var(--line);
+  padding: clamp(3rem, 7vw, 6rem) 0 2.5rem;
+}
+
+.eyebrow {
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 4.5rem);
+  font-weight: 700;
+  line-height: 1.02;
+  max-width: 820px;
+}
+
+.section-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.metric-grid article,
+.action-card,
+.form-panel {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.metric-grid article {
+  min-height: 118px;
+  padding: 1rem;
+}
+
+.metric-grid span {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.metric-grid p,
+.action-card p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.action-card {
+  min-height: 150px;
+  padding: 1.25rem;
+  transition: transform 160ms ease, border-color 160ms ease;
+}
+
+.action-card:hover {
+  border-color: var(--green);
+  transform: translateY(-2px);
+}
+
+.action-card h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.toolbar {
+  align-items: end;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.toolbar-controls {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: minmax(220px, 1fr) 190px;
+}
+
+.form-panel {
+  padding: 1.25rem;
+}
+
+.salary-pill {
+  background: #eef7f2;
+  border: 1px solid #c8e5d8;
+  border-radius: 999px;
+  color: var(--green);
+  display: inline-block;
+  font-weight: 700;
+  padding: 0.25rem 0.65rem;
+}
+
+.badge-dept {
+  background: #fff7e8;
+  border: 1px solid #f0d9a8;
+  color: var(--amber);
+}
+
+@media (max-width: 768px) {
+  .metric-grid,
+  .toolbar,
+  .toolbar-controls {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .toolbar {
+    align-items: stretch;
+  }
+}
+
