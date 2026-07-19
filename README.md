@@ -53,6 +53,40 @@ This repository contains my weekly assignments and hands-on exercises completed 
 
 ---
 
+## ⚛️ Week 4
+
+### 🌟 React & Spring Boot Microservices
+
+#### ⚛️ React (Basic & Advanced)
+
+* ⚛️ React Fundamentals
+* 🧩 Components & Props
+* 🔄 State & Event Handling
+* 🪝 React Hooks (useState, useEffect)
+* 🛣️ React Router
+* 📋 Forms & Validation
+* 🔗 API Integration using Axios
+* 🎨 Conditional Rendering & Lists
+* 📦 Component Communication
+
+#### ☁️ Spring Boot Microservices
+
+* 🏗️ Microservices Architecture
+* 🌐 Developing Independent Microservices
+* 🔗 REST Communication between Services
+* 🛢️ Spring Data JPA Integration
+* 🗄️ MySQL Database Connectivity
+* ⚙️ CRUD Operations
+* 🚪 API Gateway
+* 📍 Service Discovery
+* ⚖️ Load Balancing
+* 🛡️ Centralized Configuration
+* 🧪 Testing Microservices
+
+📂 **Folder:** `Java-FSE-Assignment/Week-4`
+
+---
+
 ## 👨‍💻 Author
 
 **Ashwani Pandey**
