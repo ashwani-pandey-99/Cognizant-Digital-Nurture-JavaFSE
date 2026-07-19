@@ -84,6 +84,27 @@ This repository contains my weekly assignments and hands-on exercises completed 
 * 🧪 Testing Microservices
 
 📂 **Folder:** `Java-FSE-Assignment/Week-4`
+## ⚛️ Week 5
+
+### ⚛️ React JS
+
+* ⚡ React Introduction & Project Setup
+* 🧩 JSX & Rendering Elements
+* 🏗️ Functional Components
+* 🎨 Styling Components using CSS Modules & Inline CSS
+* 📦 Props
+* 🪝 State Management using useState
+* 🔄 Conditional Rendering
+* 📋 Rendering Lists using map()
+* 🖱️ Event Handling
+* 🏢 Office Space Rental App
+* 👥 Cohort Tracker Dashboard
+* 📝 Hands-on Assignments
+* 📸 Output Screenshots Included
+
+📂 **Folder:** `Java-FSE-Assignment/Week-5`
+
+---
 
 ---
 
