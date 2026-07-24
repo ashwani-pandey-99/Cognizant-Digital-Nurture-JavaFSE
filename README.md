@@ -1,6 +1,6 @@
 <div align="center">
 
-# � Cognizant Digital Nurtunre – Java Full Stack Engineer
+# Cognizant Digital Nurtunre – Java Full Stack Engineer
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -30,9 +30,9 @@ Java-FSE-Assignment/
 
 ---
 
-## � Weekly Breakdown
+## Weekly Breakdown
 
-### �️ Week 1 — Design Patterns, Data Structures & SQL
+###  Week 1 — Design Patterns, Data Structures & SQL
 
 | Topic | Description |
 |-------|-------------|
@@ -60,15 +60,15 @@ Java-FSE-Assignment/
 
 | Topic | Description |
 |-------|-------------|
-| � Spring Boot | Auto-configuration, starters, embedded server |
-| � RESTful Web Services | GET, POST, PUT, DELETE endpoints |
+|  Spring Boot | Auto-configuration, starters, embedded server |
+|  RESTful Web Services | GET, POST, PUT, DELETE endpoints |
 | 📡 Request & Response | `@RequestBody`, `@PathVariable`, `@RequestParam` |
 | ❗ Exception Handling | `@ControllerAdvice`, custom exceptions |
 | 🧪 API Testing | Postman & MockMVC testing |
 
 ---
 
-### �️ Week 4 — Microservices & JUnit Testing
+###  Week 4 — Microservices & JUnit Testing
 
 | Topic | Description |
 |-------|-------------|
@@ -139,7 +139,3 @@ Cognizant Digital Nurture – Java Full Stack Engineer Program
 </div>
 
 ---
-
-<div align="center">
-  <sub>Built with ❤️ during Cognizant Digital Nurture Training Program</sub>
-</div>
