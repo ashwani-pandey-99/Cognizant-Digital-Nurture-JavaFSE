@@ -1,113 +1,79 @@
-# 🚀 Cognizant Digital Nurture - Java FSE
+# 📂 Repository Overview
 
-This repository contains my weekly assignments and hands-on exercises completed during the Cognizant Digital Nurture - Java Full Stack Engineer (Java FSE) program.
-
-## 📚 Week 1
-
-### 🎯 Design Patterns & Principles
-
-* 📊 Data Structures & Algorithms
-* 🗄️ PL/SQL Programming
-* 🧪 Test Driven Development (TDD)
-* 📝 Logging Framework
-
-📂 **Folder:** `Java-FSE-Assignment/Week-1`
+## 📘 Week 1 – Design Patterns, DSA & SQL
+✨ **Topics Covered**
+- 🎯 Design Patterns & Principles
+- 📊 Data Structures & Algorithms
+- 🗄️ PL/SQL Programming
+- 🧪 Test Driven Development (TDD)
+- 📝 Logging Framework
 
 ---
 
-## 🌱 Week 2
-
-### ☕ Spring Core
-
-* 💉 Spring IoC & Dependency Injection
-* 🏷️ Bean Configuration (XML & Annotations)
-* 🗄️ Hibernate ORM
-* 🌿 Spring Data JPA
-* 🔗 JPA & Hibernate Integration
-* 🛢️ MySQL Database Connectivity
-* ⚙️ CRUD Operations (Create, Read, Update, Delete)
-* 🌍 Country Management Application
-* 📸 Output Screenshots Included
-
-📂 **Folder:** `Java-FSE-Assignment/Week-2`
+## 🌱 Week 2 – Spring Core & Spring Data JPA
+✨ **Topics Covered**
+- ☕ Spring Core
+- 💉 IoC & Dependency Injection
+- 🏷️ Bean Configuration
+- 🗃️ Hibernate ORM
+- 🌿 Spring Data JPA
+- 🛢️ MySQL Connectivity
+- ⚙️ CRUD Operations
+- 🌍 Country Management Application
 
 ---
 
-## 🚀 Week 3
-
-### 🌐 Spring REST API
-
-* 🌱 Spring Boot REST API Development
-* 🔗 RESTful Web Services
-* 📡 HTTP Methods (GET, POST, PUT, DELETE)
-* 📥 Request Mapping & Path Variables
-* 📤 Request Body & Response Entity
-* 📝 JSON Request & Response Handling
-* ⚙️ CRUD Operations using REST API
-* 🛢️ Spring Data JPA Integration
-* 🗄️ MySQL Database Connectivity
-* 🧪 API Testing using Postman
-* ❗ Exception Handling & Validation
-
-📂 **Folder:** `Java-FSE-Assignment/Week-3`
+## 🌐 Week 3 – Spring Boot REST API
+✨ **Topics Covered**
+- 🚀 Spring Boot REST API
+- 🔗 RESTful Web Services
+- 📡 HTTP Methods
+- 📥 Request & Response Handling
+- 🛢️ Spring Data JPA + MySQL
+- 🧪 Postman API Testing
+- ❗ Exception Handling & Validation
 
 ---
 
-## ⚛️ Week 4
-
-### 🌟 React & Spring Boot Microservices
-
-#### ⚛️ React (Basic & Advanced)
-
-* ⚛️ React Fundamentals
-* 🧩 Components & Props
-* 🔄 State & Event Handling
-* 🪝 React Hooks (useState, useEffect)
-* 🛣️ React Router
-* 📋 Forms & Validation
-* 🔗 API Integration using Axios
-* 🎨 Conditional Rendering & Lists
-* 📦 Component Communication
-
-#### ☁️ Spring Boot Microservices
-
-* 🏗️ Microservices Architecture
-* 🌐 Developing Independent Microservices
-* 🔗 REST Communication between Services
-* 🛢️ Spring Data JPA Integration
-* 🗄️ MySQL Database Connectivity
-* ⚙️ CRUD Operations
-* 🚪 API Gateway
-* 📍 Service Discovery
-* ⚖️ Load Balancing
-* 🛡️ Centralized Configuration
-* 🧪 Testing Microservices
-
-📂 **Folder:** `Java-FSE-Assignment/Week-4`
-## ⚛️ Week 5
-
-### ⚛️ React JS
-
-* ⚡ React Introduction & Project Setup
-* 🧩 JSX & Rendering Elements
-* 🏗️ Functional Components
-* 🎨 Styling Components using CSS Modules & Inline CSS
-* 📦 Props
-* 🪝 State Management using useState
-* 🔄 Conditional Rendering
-* 📋 Rendering Lists using map()
-* 🖱️ Event Handling
-* 🏢 Office Space Rental App
-* 👥 Cohort Tracker Dashboard
-* 📝 Hands-on Assignments
-* 📸 Output Screenshots Included
-
-📂 **Folder:** `Java-FSE-Assignment/Week-5`
+## ☁️ Week 4 – Spring Boot Microservices
+✨ **Topics Covered**
+- 🏗️ Microservices Architecture
+- 🔗 REST Communication
+- 🚪 API Gateway
+- 📍 Service Discovery
+- ⚖️ Load Balancing
+- 🛡️ Centralized Configuration
+- 🧪 Microservices Testing
 
 ---
 
+## ⚛️ Week 5 – React JS
+✨ **Topics Covered**
+- ⚡ React Fundamentals
+- 🧩 Components & JSX
+- 📦 Props & State
+- 🪝 React Hooks
+- 🎨 CSS Modules
+- 🖱️ Event Handling
+- 🏢 Office Space Rental App
+- 👥 Cohort Tracker Dashboard
+
 ---
 
-## 👨‍💻 Author
+## 📦 Week 6 – React & Git
+✨ **Topics Covered**
+- ⚛️ Additional React Exercises
+- 🌿 Git Installation & Configuration
+- 💻 Git Bash Commands
+- 📂 Repository Management
+- ➕ git add
+- 💾 git commit
+- 📊 git status
+- ⬆️ git push
+- ⬇️ git pull
 
-**Ashwani Pandey**
+---
+
+## 🧪 Additional Modules
+- ☑️ JUnit Testing
+- 🌸 Spring Hands-on Exercises
