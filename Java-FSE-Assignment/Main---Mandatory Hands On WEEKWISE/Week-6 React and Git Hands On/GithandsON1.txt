@@ -1,0 +1,65 @@
+git --version
+Checks whether Git is installed.
+
+git config --global user.name "Your Name"
+Sets the Git username.
+
+git config --global user.email "your@email.com"
+Sets the Git email.
+
+git config --global --list
+Displays the Git configuration.
+
+notepad++
+Checks whether Notepad++ opens from Git Bash.
+
+notepad++ ~/.bash_profile
+Opens the Bash profile.
+
+alias np='notepad++'
+Creates an alias for Notepad++.
+
+source ~/.bash_profile
+Applies the changes.
+
+git config --global core.editor "notepad++"
+Makes Notepad++ the default Git editor.
+
+mkdir GitDemo
+Creates a new folder.
+
+cd GitDemo
+Moves to the GitDemo folder.
+
+git init
+Initializes a Git repository.
+
+ls -la
+Shows all files including the .git folder.
+
+echo "Welcome to Git" > welcome.txt
+Creates a new text file.
+
+ls
+Checks whether the file is created.
+
+cat welcome.txt
+Displays the file content.
+
+git status
+Checks the repository status.
+
+git add welcome.txt
+Adds the file to the staging area.
+
+git commit
+Commits the staged changes.
+
+git status
+Checks whether everything is committed.
+
+git pull origin master
+Downloads the latest changes from the remote repository.
+
+git push origin master
+Uploads the local repository to the remote repository.
